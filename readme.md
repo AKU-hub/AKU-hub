@@ -28,7 +28,7 @@
 <!-- <br /> -->
 <!-- <br /> -->
 
-Hi there, I'm **Ruyi Zhao**. Days at the Tongji University is the deepest memories in my whole life, my supervisor is [Fanhuai Shi](https://baike.baidu.com/item/%E7%9F%B3%E7%B9%81%E6%A7%90/49755710?fr=aladdin). Now I am a computer science graduate student from Xidian University and focusing on algorithm and deeplearning recently. Languages and Tools:
+Hi there, I'm **Ruyi Zhao**. Days at the Tongji University is the deepest memories in my whole life, my supervisor is [Fanhuai Shi](https://baike.baidu.com/item/%E7%9F%B3%E7%B9%81%E6%A7%90/49755710?fr=aladdin). Now I am a computer science student from Tongji University and focusing on CV and DL recently. Languages and Tools:
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
