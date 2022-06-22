@@ -32,12 +32,9 @@ Hi there, I'm **Ruyi Zhao**. Days at the Tongji University is the deepest memori
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=matlab%20logo&hs=0&pn=0&spn=0&di=7108135681917976577&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=2870499667%2C2914957681&os=3210445293%2C3548667302&simid=3457357468%2C188502790&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=matlab%20logo&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fdata.educoder.net%2Fapi%2Fattachments%2F180813%26refer%3Dhttp%3A%2F%2Fdata.educoder.net%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Dauto%3Fsec%3D1658509477%26t%3D09e72fa6ffe3e220e53f0fab6eef2e20&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bj17v51j6_z%26e3BgjpAzdH3Ffitx7gfAzdH3F0kefc92oAzdH3Fviwssjg2jf&gsm=1&islist=&querylist=&dyTabStr=MCwzLDEsNiw0LDUsMiw3LDgsOQ%3D%3D"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Arch_Linux_logo.svg/250px-Arch_Linux_logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg"></code>
-<code><img height="30" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"></code>
 
 
 <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
