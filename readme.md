@@ -42,9 +42,9 @@ Hi there, I'm **Ruyi Zhao**. Days at the Tongji University is the deepest memori
 
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 I'm currently a student at Xidian University, engaged in adversarial samples research;
-- 🌱 I'm currently interested in object detection and tracking, federated learning, etc;
-- 🤔 In terms of technology, I am fluent in python and studying C++ and Vim recently;
+- 👨‍💻 I'm currently a student at Tongji University, engaged in computer vision research;
+- 🌱 I'm currently interested in object detection and instance segmentation, Self-Supervised learning, Semi-Supervised learning, etc;
+- 🤔 In terms of technology, I am fluent in python and studying C++ recently;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 See my website: [Just for Life](https://muyuuuu.github.io) to get more info.
 
