@@ -1,33 +1,5 @@
 ### Hey 👋, I'm Ruyi Zhao
 
-<!-- <a href="https://codeforces.com/profile/im0qianqian">
-  <img align="left" alt="im0qianqian's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-<a href="https://leetcode.com/im0qianqian/">
-  <img align="left" alt="im0qianqian's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/im0qianqian">
-  <img align="left" alt="im0qianqian's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-<a href="https://www.topcoder.com/members/im0qianqian">
-  <img align="left" alt="im0qianqian's TopCoder" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/topcoder.svg" />
-</a>
-<a href="https://www.zhihu.com/people/im0qianqian">
-  <img align="left" alt="im0qianqian's Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
-</a>
-<a href="https://www.linkedin.com/in/%E5%89%8D-%E8%B5%B5-555166141/">
-  <img align="left" alt="im0qianqian's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/im0qianqian">
-  <img align="left" alt="im0qianqian's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.hackerrank.com/im0qianqian">
-  <img align="left" alt="im0qianqian's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a> -->
-
-<!-- <br /> -->
-<!-- <br /> -->
-
 Hi there, I'm **Ruyi Zhao**. Days at the Tongji University is the deepest memories in my whole life, my supervisor is [Fanhuai Shi](https://baike.baidu.com/item/%E7%9F%B3%E7%B9%81%E6%A7%90/49755710?fr=aladdin). Now I am a computer science student from Tongji University and focusing on CV and DL recently. Languages and Tools:
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
