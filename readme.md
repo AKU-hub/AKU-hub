@@ -22,6 +22,5 @@ Hi there, I'm **Ruyi Zhao**. Days at the Tongji University is the deepest memori
 
 <br />
 
-![muyuuuu's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=muyuuuu&langs_count=10&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%2010))![muyuuuu's github stats](https://github-readme-stats.vercel.app/api?username=muyuuuu&show_icons=true&hide_border=true&include_all_commits=true)
 
-**Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project or paiticipate competition with me.**
+**Please feel free to contact me if you want to do project or paiticipate competition with me (ru_yi_zhao@163.com).**
