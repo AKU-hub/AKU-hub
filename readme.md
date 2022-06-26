@@ -18,9 +18,17 @@ Hi there, I'm **Ruyi Zhao**. Days at the Tongji University is the deepest memori
 - 🌱 I'm currently interested in object detection and instance segmentation, Self-Supervised learning, Semi-Supervised learning, etc;
 - 🤔 In terms of technology, I am fluent in python and studying C++ recently;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 See my website: [Just for Life](https://muyuuuu.github.io) to get more info.
 
 <br />
 
+**Projects:**
++ [Research on the identification method of plant diseases based on deep learning](https://github.com/AKU-hub/I2DKPCN)
++ [Plant disease detection based on deep learning and aerial images](https://github.com/AKU-hub/PDD)
++ [ICRA 2021 RoboMaster University AI Challenge](https://github.com/AKU-hub/ICRA2021)
++ [HuaWeiCloud AI Challenge · Unmanned Vehicle Challenge Cup](https://github.com/AKU-hub/HWCloud2021)
+
+**Experience:**
++ [SenseTime](https://www.sensetime.com/cn) (2021.07 - 2022.04)
++ [MeiTuan](https://www.meituan.com/) (2022.04 - 2022.06)
 
 **Please feel free to contact me if you want to do project or paiticipate competition with me (ru_yi_zhao@163.com).**
