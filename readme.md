@@ -31,4 +31,12 @@ Hi there, I'm **Ruyi Zhao**. Days at the Tongji University is the deepest memori
 + [SenseTime](https://www.sensetime.com/cn) (2021.07 - 2022.04)
 + [MeiTuan](https://www.meituan.com/) (2022.04 - 2022.06)
 
+**Paper:**
++ [I2DKPCN: an unsupervised deep learning network. Applied Intelligence.](https://link.springer.com/article/10.1007/s10489-021-03007-9)
++ Waiting for update
+
+**Contests:**
++ [ICRA 2021 RoboMaster University AI Challenge **First Prize**](https://www.robomaster.com/zh-CN/robo/icra?djifrom=nav)
++ Waiting for update
+
 **Please feel free to contact me if you want to do project or paiticipate competition with me (ru_yi_zhao@163.com).**
