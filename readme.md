@@ -33,10 +33,13 @@ Hi there, I'm **Ruyi Zhao**. Days at the Tongji University is the deepest memori
 
 **Paper:**
 + [I2DKPCN: an unsupervised deep learning network. Applied Intelligence.](https://link.springer.com/article/10.1007/s10489-021-03007-9)
++ SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers. ECCV2022(under review)
++ [Pest disease detection of Brassica chinensis through UAV-imagery and deep learning. Applied Intelligence(under review)](https://github.com/AKU-hub/PDD)
 + Waiting for update
 
 **Contests:**
 + [ICRA 2021 RoboMaster University AI Challenge **First Prize**](https://www.robomaster.com/zh-CN/robo/icra?djifrom=nav)
++ ["Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling Third Prize](https://cpipc.acge.org.cn/)
 + Waiting for update
 
 **Please feel free to contact me if you want to do project or paiticipate competition with me (ru_yi_zhao@163.com).**
