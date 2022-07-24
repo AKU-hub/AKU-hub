@@ -29,7 +29,8 @@ Hi there, I'm **Ruyi Zhao**. Days at the Tongji University is the deepest memori
 
 **Experience:**
 + [SenseTime](https://www.sensetime.com/cn) (2021.07 - 2022.04)
-+ [MeiTuan](https://www.meituan.com/) (2022.04 - 2022.06)
++ [MeiTuan](https://github.com/meituan/YOLOv6) (2022.04 - 2022.06)
++ Alibaba (2022.07 - Now)
 
 **Paper:**
 + [I2DKPCN: an unsupervised deep learning network. Applied Intelligence.](https://link.springer.com/article/10.1007/s10489-021-03007-9)
