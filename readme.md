@@ -34,7 +34,7 @@ Hi there, I'm **Ruyi Zhao**. Days at the Tongji University is the deepest memori
 
 **Paper:**
 + [I2DKPCN: an unsupervised deep learning network. Applied Intelligence.](https://link.springer.com/article/10.1007/s10489-021-03007-9)
-+ [SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers. WACV(under review)]((https://github.com/AKU-hub/SeqCo-DETR))
++ [SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers. WACV(under review)](https://github.com/AKU-hub/SeqCo-DETR)
 + [Pest disease detection of Brassica chinensis through UAV-imagery and deep learning. Applied Intelligence(under review)](https://github.com/AKU-hub/PDD)
 + Waiting for update
 
