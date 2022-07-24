@@ -28,7 +28,7 @@ Hi there, I'm **Ruyi Zhao**. Days at the Tongji University is the deepest memori
 + [HuaWeiCloud AI Challenge · Unmanned Vehicle Challenge Cup](https://github.com/AKU-hub/HWCloud2021)
 
 **Experience:**
-+ [SenseTime](https://www.sensetime.com/cn) (2021.07 - 2022.04)
++ [SenseTime](https://github.com/AKU-hub/SeqCo-DETR) (2021.07 - 2022.04)
 + [MeiTuan](https://github.com/meituan/YOLOv6) (2022.04 - 2022.06)
 + Alibaba (2022.07 - Now)
 
